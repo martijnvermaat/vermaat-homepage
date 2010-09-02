@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <title>Vermaat.name</title>
+  <link rel="stylesheet" href="stylesheets/screen.css">
+</head>
+<body>
+<ul>
+  <li><a href="http://vondellaan.vermaat.name/">vondellaan</a></li>
+  <li><a href="http://janny.vermaat.name/log/">janny's hobbylog</a></li>
+  <li><a href="http://martijn.vermaat.name/">martijn</a></li>
+  <li><a href="http://rosanne.vermaat.name/">rosanne</a></li>
+</ul>
+</body>
+</html>

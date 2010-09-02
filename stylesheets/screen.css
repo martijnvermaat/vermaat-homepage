@@ -1,0 +1,36 @@
+html {
+    background          :   black;
+}
+
+
+ul {
+    width               :   777px;
+    padding             :   420px 0 0 0;
+    margin              :   140px auto 50px auto;
+    background          :   black url("../images/kinderen.jpg") top center no-repeat;
+    list-style-type     :   none;
+}
+
+
+li {
+    float               :   left;
+    margin              :   0;
+    padding             :   0;
+}
+
+
+li a {
+    display             :   block;
+    width               :   194px;
+    color               :   #aaa;
+    font-family         :   Verdana, Arial, Helvetica, sans-serif;
+    font-size           :   14px;
+    line-height         :   20px;
+    text-decoration     :   none;
+    text-align          :   center;
+}
+
+
+li a:hover {
+    color               :   #ccc;
+}
